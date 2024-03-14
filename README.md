@@ -16,5 +16,8 @@
 <div> 
   <a href = "mailto:evandro.menschaid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evandro-menschaid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-evandro-menschaid.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20-%FFFFFF.svg?&style=for-the-badge&logo=Vercel&logoColor=000000&color=FFFFFF" target="_blank"/>
+  </a>
   
 </div>
